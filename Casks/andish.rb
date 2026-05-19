@@ -1,6 +1,6 @@
 cask "andish" do
   version "0.0.3"
-  sha256 "b661adf5e8d0506761c00c9b467ed48e4772aec9ae5665b6caaac489cda83753"
+  sha256 "7df9910f4c02eaa8cd75b17295759fddf2188a2e530f88975fee45fa3e382567"
 
   url "https://github.com/js4jiang5/Andish/releases/download/v#{version}/Andish_v#{version}.dmg"
   name "Andish"
